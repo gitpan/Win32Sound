@@ -1,0 +1,3 @@
+LIBRARY Sound
+EXPORTS
+	boot_Win32__Sound
